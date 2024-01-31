@@ -11,4 +11,4 @@ Roman10s/Roman10s is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # Bot Sadece Glitche Çalışır Eğer Vscde Kullanıcaksanız Lütfen Gerekli Dosyaları Siliniz
-(İletişim İçin)[https://discord.gg/7Br5qeVgcz]
+[İletişim İçin](https://discord.gg/7Br5qeVgcz)
